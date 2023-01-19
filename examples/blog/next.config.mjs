@@ -10,7 +10,7 @@ const withNextra = nextra({
 
 export default withNextra({
   images: {
-    domains: ['nextra-demo.paulapplegate.com','nextra-blog.paulapplegate.com' ],
+    domains: ['mini-me.paulapplegate.com', 'nextra-demo.paulapplegate.com','nextra-blog.paulapplegate.com' ],
     formats: ['image/avif', 'image/webp'],
   },
   reactStrictMode: true
